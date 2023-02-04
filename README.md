@@ -22,12 +22,14 @@ Halo Semuanya. Ini adalah dokumentasi dari aplikasi CRUD sederhana yang telah sa
 # Setup env
 
 Pada file .env cari bagian
-"DB_CONNECTION=mysql
+
+`DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=db_kilau
 DB_USERNAME=root
-DB_PASSWORD="
+DB_PASSWORD=`
+
 sesuaikan nama database, username, dan passwordnya.
 
 # Migrasi database
